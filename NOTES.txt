@@ -1,0 +1,10 @@
+ctx.fillStyle = "red";
+ctx.fillStyle = "yellow";
+ctx.fillStyle = "blue";
+ctx.fillStyle = "purple";
+ctx.fillStyle = "orange";
+ctx.fillStyle = "green";
+
+ctx.fillStyle = "#FF0000"; 
+ctx.fillStyle = "rgb(255, 0, 0)"; 
+ctx.fillStyle = "rgba(255, 0, 0, 0.5)"; // Semi-transparent red
